@@ -4,3 +4,4 @@ venv/
 build/
 dist/
 6_Gradio5.spec
+test.html
